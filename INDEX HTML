@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Ainas personal site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="https://hosting.photobucket.com/images/i/A_INA/(edited)_PROFESSIONAL_PASSPORT.png" alt="Amarachi's Profile Picture">
+      </td>
+      <td>
+        <h1>Amarachi</h1>
+        <p><em>Student at <strong><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287450#content">web devlopment</a></strong></em></p>
+        <p>I am a beginner at the web development course.</p>
+        <p>I am happy to always learn.</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>Lady Ibiam Girls' Secondary School</li>
+    <li>Anambra State University</li>
+  </ul>
+  <hr>
+  <h3>Work Experience</h3>
+  <table cellspacing="10">
+    <tr>
+      <th>Dates</th>
+      <th>Work</th>
+    </tr>
+    <tr>
+      <td>2010-2013</td>
+      <td>Developer at tempo App</td>
+    </tr>
+    <tr>
+      <td>2010</td>
+      <td>Reasercher at institute of Neurosciences</td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Web Development</td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Product Managment</td>
+            <td>⭐⭐</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>Content Writing</td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Copywriting</td>
+            <td>⭐⭐</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <p></p>
+  <hr>
+  <a href="Hobbies.html">My Hobbies</a>
+  <p></p>
+  <a href="Contact-Me.html">Contact Me</a>
+</body>
+
+</html>
